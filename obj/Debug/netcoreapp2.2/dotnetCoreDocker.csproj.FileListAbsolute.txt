@@ -1,0 +1,14 @@
+D:\dotnet\dotnetCoreDocker\bin\Debug\netcoreapp2.2\dotnetCoreDocker.deps.json
+D:\dotnet\dotnetCoreDocker\bin\Debug\netcoreapp2.2\dotnetCoreDocker.runtimeconfig.json
+D:\dotnet\dotnetCoreDocker\bin\Debug\netcoreapp2.2\dotnetCoreDocker.runtimeconfig.dev.json
+D:\dotnet\dotnetCoreDocker\bin\Debug\netcoreapp2.2\dotnetCoreDocker.dll
+D:\dotnet\dotnetCoreDocker\bin\Debug\netcoreapp2.2\dotnetCoreDocker.pdb
+D:\dotnet\dotnetCoreDocker\obj\Debug\netcoreapp2.2\dotnetCoreDocker.csprojAssemblyReference.cache
+D:\dotnet\dotnetCoreDocker\obj\Debug\netcoreapp2.2\dotnetCoreDocker.csproj.CoreCompileInputs.cache
+D:\dotnet\dotnetCoreDocker\obj\Debug\netcoreapp2.2\dotnetCoreDocker.RazorAssemblyInfo.cache
+D:\dotnet\dotnetCoreDocker\obj\Debug\netcoreapp2.2\dotnetCoreDocker.RazorAssemblyInfo.cs
+D:\dotnet\dotnetCoreDocker\obj\Debug\netcoreapp2.2\dotnetCoreDocker.AssemblyInfoInputs.cache
+D:\dotnet\dotnetCoreDocker\obj\Debug\netcoreapp2.2\dotnetCoreDocker.AssemblyInfo.cs
+D:\dotnet\dotnetCoreDocker\obj\Debug\netcoreapp2.2\dotnetCoreDocker.RazorTargetAssemblyInfo.cache
+D:\dotnet\dotnetCoreDocker\obj\Debug\netcoreapp2.2\dotnetCoreDocker.dll
+D:\dotnet\dotnetCoreDocker\obj\Debug\netcoreapp2.2\dotnetCoreDocker.pdb
